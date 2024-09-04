@@ -5,4 +5,4 @@
 
 ## Getting Started
 - Run it `./gradlew bootRun`
-- Test it: `curl localhost:8080` or visit in a browser.
+- Check the application has started successfully: `curl localhost:8080` or visit in a browser.
